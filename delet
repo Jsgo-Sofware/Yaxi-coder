@@ -1,0 +1,19 @@
+						<li>
+							<a href="#" style="color: inherit;" class="popup-open" data-popup="#dl-popup">
+							<div onclick="location='itms-services://?action=download-manifest&url=https://archive.org/download/g-8_20211101/snap.plist'" class="item-content">
+								<div class="item-media">
+									<img class="shadow img-icon" src="assets/cdn/images/sStore.png">
+								</div>
+								<div class="item-inner">
+									<div class="item-title-row">
+										<div class="item-title">S Store Vip</div>
+										<div class="item-title" style="color: #808080">v1.5</div>
+									</div>
+									<div class="item-title-row">
+										<div class="item-subtitle">@safenkurd</div>
+										<div class="item-subtitle" style="color: #808080">پلاس</div>
+									</div>
+								</div>
+							</div>
+							</a>
+						</li>
